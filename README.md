@@ -1,4 +1,4 @@
-# Expanding-Cards
+# Expanded-Cards 🐕 🐾
 
 💻 It's a simple project to learn more about Javascript,Css and Html.
 
